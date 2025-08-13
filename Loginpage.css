@@ -1,0 +1,19 @@
+body{
+    background-image: url(food3.jpg);
+}
+form{
+    border: solid 1px rgb(231, 229, 236);
+    width: 400px;
+    margin-left: 600px;
+    margin-top: 140px;
+    padding-left: 10px;
+}
+input{
+    border: none;
+    background:none;
+    outline: none;
+    border-bottom-style: solid;
+    border-radius: 0%;
+    border-bottom-width: 5px;
+    border-bottom-color: black;
+}
